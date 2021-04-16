@@ -1,4 +1,4 @@
-# nodejs-express-blog
+# nodejs-express-blog-tutorial
 
 Node and Express JS tutorial to develop a responsive blog website with the Bootstrap theme
 
