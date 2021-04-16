@@ -25,7 +25,7 @@ This [**tutorial**](https://github.com/votungphan/nodejs-express-blog-tutorial/w
 
 I would appreciate all types of question, comment or recommendation via the Project Github Discussion. I will try my best with my free time to keep up the good work.
 
-- https://github.com/votungphan/nodejs-express-blog-tutorial/discussions
+- <https://github.com/votungphan/nodejs-express-blog-tutorial/discussions>
 
 ## License and Copyright
 
