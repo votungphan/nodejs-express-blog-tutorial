@@ -8,7 +8,7 @@ Node and Express JS tutorial to develop a responsive blog website with the Boots
 
 ## Features
 
-This [tutorial](https://github.com/votungphan/nodejs-express-blog-tutorial/wiki) is to aim at the zero-to-hero completion of a Blog Website with following features:
+This [**tutorial**](https://github.com/votungphan/nodejs-express-blog-tutorial/wiki) is to aim at the zero-to-hero completion development of a Blog Website with following features:
 
 - Node.js, Express with Redis, MongoDB and Eta template stack.
 - Bootstrap v5.0 responsive theme with the offline mode support.
@@ -20,6 +20,12 @@ This [tutorial](https://github.com/votungphan/nodejs-express-blog-tutorial/wiki)
 - Google captcha integration for the form submission.
 - Google SEO optimization and Google Analytics integration.
 - Built-in Admin page with Stats and utilities to approach clients.
+
+## Question or Feedback
+
+I would appreciate all types of question, comment or recommendation via the Project Github Discussion. I will try my best with my free time to keep up the good work.
+
+- https://github.com/votungphan/nodejs-express-blog-tutorial/discussions
 
 ## License and Copyright
 
